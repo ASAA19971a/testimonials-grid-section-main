@@ -41,6 +41,7 @@ body {
 
 @media (min-width: 768px) {
   .container {
+    padding-top: 25%;
     grid-template-columns: repeat(4, 1fr); /* 1fr*/
     grid-template-rows: repeat(2, 1fr);
   }
